@@ -1,6 +1,6 @@
 # Datamatiker Praktiksteder
 
-En samling af virksomheder som tidligere har taget datamatikere i praktik.
+En samling af virksomheder som tidligere har taget datamatikere i praktik. Opret gerne en Pull Request, hvis du vil tilføje en eller flere virksomheder, eller opdatere noget information.
 
 ## Lokation
 
