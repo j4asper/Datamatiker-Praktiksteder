@@ -49,3 +49,8 @@ En samling af virksomheder som tidligere har taget datamatikere i praktik.
 
 | Virksomhed | By | Stack |
 |------------|----|-------|
+
+## To-Do
+
+- [ ] Tilføj korte beskrivelser
+- [ ] Sortér byer alfabetisk
