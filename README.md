@@ -38,12 +38,12 @@ En samling af virksomheder som tidligere har taget datamatikere i praktik. Opret
 |------------|----|-------|
 | [Bankdata Danmark Aps](https://www.bankdata.dk/) | Fredericia, 7000 | Java |
 | [Nolek A/S](https://www.nolek.dk/da/) | Kolding, 6000 | Ukendt |
-| [Miralix](https://www.miralix.dk/) | Hedensted, 8722 | C#, React, Blazor |
-| [Elbek & Vejrup A/S](https://elbek-vejrup.dk/) | Århus N, 8200 | C# |
-| [Vestjysk Marketing A/S](https://www.vestjyskmarketing.dk/) | Ringkøbing, 6950 | C# |
-| [Unik System Design A/S](https://unik.dk/) | Vejle, 7100 | C#, Blazor |
-| [Limbo Works ApS](https://www.limbo.works) | Vejle, 7100 | C#, JS, Azure |
-| [Uptime Development A/S](https://uptimedevelopment.dk/) | Vejle, 7100 | C#, PHP |
+| [Miralix](https://www.miralix.dk/) | Hedensted, 8722 | .Net, React, Blazor |
+| [Elbek & Vejrup A/S](https://elbek-vejrup.dk/) | Århus N, 8200 | .Net |
+| [Vestjysk Marketing A/S](https://www.vestjyskmarketing.dk/) | Ringkøbing, 6950 | .Net |
+| [Unik System Design A/S](https://unik.dk/) | Vejle, 7100 | .Net, Blazor |
+| [Limbo Works ApS](https://www.limbo.works) | Vejle, 7100 | .Net, JS, Azure |
+| [Uptime Development A/S](https://uptimedevelopment.dk/) | Vejle, 7100 | .Net, PHP |
 
 ## Udland
 
