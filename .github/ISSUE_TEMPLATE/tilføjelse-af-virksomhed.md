@@ -7,12 +7,38 @@ assignees: ''
 
 ---
 
-- Har en datamatiker været i praktik i denne virksomhed?  
+#### Har en datamatiker været i praktik i denne virksomhed?  
 
-- Hvad hedder virksomheden?  
+Ja, jeg har været i praktik hos virksomheden.
 
-- Hvilken lokation tager i mod praktikanter, inkludér postnummer og by.  
+---
 
-- Evt. Stack, hvis den kendes.  
+#### Hvad hedder virksomheden?  
 
-- Kort beskrivelse af hvad virksomheden laver.
+Fiktiv Virksomhed A/S
+
+---
+
+#### Link til virksomhedens hjemmeside
+
+https://fiktiv-virksomhed.dk
+
+---
+
+#### Hvilken lokation tager i mod praktikanter, inkludér postnummer og by  
+
+Odense C, 5000
+
+---
+
+#### Evt. Stack, hvis den kendes  
+
+.Net, JS og Jenkins
+
+---
+
+#### Kort beskrivelse af hvad virksomheden laver
+
+Virksomheden laver apps til kunder.
+
+---

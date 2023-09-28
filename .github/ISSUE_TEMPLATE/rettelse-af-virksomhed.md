@@ -7,8 +7,20 @@ assignees: ''
 
 ---
 
-- Hvad hedder virksomheden?  
+#### Hvad hedder virksomheden?  
 
-- Hvad skal rettes?  
+Fiktiv Virksomhed A/S
 
-- Hvorfor rettes dette?
+---
+
+#### Hvad skal rettes?  
+
+Deres stack inkluderer også .Net
+
+---
+
+#### Hvorfor rettes dette?
+
+.Net stod ikke i deres stack før.
+
+---
