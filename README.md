@@ -29,7 +29,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
 | [AviationCloud A/S](https://foreflight.com/) | Odense C, 5000 | Ukendt | AviationCloud laver primært produkter til bl.a. piloter. |
-| [Ecreo ApS](https://www.ecreo.dk) | Odense C , 5000 | Ukendt | Ecreo laver softwareløsninger til andre virksomheder. |
+| [Ecreo ApS](https://www.ecreo.dk) | Odense C, 5000 | Ukendt | Ecreo laver softwareløsninger til andre virksomheder. |
 | [Edentic ApS](https://edentic.dk/) | Odense C, 5000 | Ukendt | Edentic laver softwareløsninger til andre virksomheder bl.a. DSB. |
 | [Fjernvarme Fyn Service A/S](https://www.fjernvarmefyn.dk) | Odense C, 5000 | Ukendt | Fjernvarme Fyn står for en stor del af Fyns varmeforsyning. |
 | [HR-ON ApS](https://hr-on.com) | Odense C, 5000 | Ukendt | HR-ON Recruit og HR-ON Staff samler daglige HR-opgaver et sted. |
