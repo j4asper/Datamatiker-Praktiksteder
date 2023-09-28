@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-26-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-27-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -23,6 +23,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
+| [Adwise Media A/S](https://marketing-praktikant.dk/) | Albertslund, 2620 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 
 ## Fyn
 
@@ -47,6 +48,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
+| [Adwise Media A/S](https://marketing-praktikant.dk/) | Vejle, 7100 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 | [AUTOproff A/S](https://www.autoproff.dk) | Vejle, 7100 | .Net, MySQL, AWS, CircleCI, Vue.js | AUTOproff leverer SaaS-løsninger til professionelle bilforhandlere i Europa. |
 | [Bankdata Danmark Aps](https://www.bankdata.dk/) | Fredericia, 7000 | Java | Bankdata Danmark bygger alt det, der rimer på bank. Fra bank-appen på din smartphone til Danmarks finansielle infrastruktur. |
 | [Datamarked ApS](https://www.datamarked.dk/) | Nørresundby, 9400 | HTML, CSS, JS, PHP, MySQL | Webshop med salg af genbrugt IT. |
