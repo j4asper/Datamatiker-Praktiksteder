@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-28-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-29-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -59,6 +59,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [NGAGE ApS](https://ngage.dk/) | Vejle, 7100 | .Net, React, JS | NGAGE rådgiver om og implementerer løsninger til Intranet, digital samarbejde og automatisering af processer på en samlet digital arbejdsplads. |
 | [Nolek A/S](https://www.nolek.dk/da/) | Kolding, 6000 | Ukendt | Nolek har nogle farmaceutiske software løsninger. |
 | [Retio Partners ApS](https://retio.dk) | Vejle, 7100 | Ukendt | Retio Partners tilbyder et digitaliseret bogførings system. |
+| [twoday Co3](https://www.co3.dk) | Herning, 7400 | .NET, HTML, CSS, JS | twoday Co3 tilbyder websites, apps, e-handel, PIM, online marketing og meget mere. |
 | [Unik System Design A/S](https://unik.dk/) | Vejle, 7100 | .Net, Blazor | Unik udvikler innovative softwareløsninger, der optimerer workflowet for kunder i ejendoms- og advokatbranchen. |
 | [Uptime Development A/S](https://uptimedevelopment.dk/) | Vejle, 7100 | .Net, PHP | Uptime Development udvikler intelligente IT-løsninger. Fra koncept og forretningsanalyse til design, prototype og lancering. |
 | [Vestjysk Marketing A/S](https://www.vestjyskmarketing.dk/) | Ringkøbing, 6950 | .Net | Vestjysk Marketing laver hjemmesider og webshops. |
