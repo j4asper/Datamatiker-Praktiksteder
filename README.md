@@ -28,6 +28,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
+| [Autorola Group](https://www.autorolagroup.com/) | Odense C, 5000 | Ukendt | Autorola Group har bl.a. en bil auktions hjemmeside og andre hjemmesider, hvor biler er et fælles tema. |
 | [AviationCloud A/S](https://foreflight.com/) | Odense C, 5000 | Ukendt | AviationCloud laver primært produkter til bl.a. piloter. |
 | [Ecreo ApS](https://www.ecreo.dk) | Odense C, 5000 | Ukendt | Ecreo laver softwareløsninger til andre virksomheder. |
 | [Edentic ApS](https://edentic.dk/) | Odense C, 5000 | Ukendt | Edentic laver softwareløsninger til andre virksomheder bl.a. DSB. |
