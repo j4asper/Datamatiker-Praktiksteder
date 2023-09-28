@@ -1,12 +1,16 @@
+![Static Badge](https://img.shields.io/badge/Virksomheder-23-green?style=for-the-badge)
+
 # Datamatiker Praktiksteder
 
-En samling af virksomheder som tidligere har taget datamatikere i praktik. Opret gerne en Pull Request, hvis du vil tilføje en eller flere virksomheder, eller opdatere noget information.
+Denne liste er blevet sammensat med det formål at hjælpe datamatikstuderende med at finde praktikmuligheder inden for deres fagområde. Praktikperioden er en afgørende del af datamatikuddannelsen, hvor studerende får mulighed for at anvende deres teoretiske viden i den virkelige verden og opbygge praktisk erfaring.
+
+Samlet set er denne liste en ressource, der sigter mod at lette datamatikstuderendes praktiksøgningsproces ved at tilbyde en oversigt over potentielle praktiksteder.
 
 En god håndfuld af virksomhederne nedenunder, kan også være gode Multimedie Design praktiksteder.
 
 ## Rettelser og Tilføjelser
 
-Virksomheds informationer kan være upræcise, så hvis du ved mere om en virksomhed, som ikke er angivet, så må du meget gerne [oprette en issue](https://github.com/j4asper/Datamatiker-Praktiksteder/issues/new/choose) eller en [pull request](https://github.com/j4asper/Datamatiker-Praktiksteder/pulls). Det samme gælder hvis du kender til en eller flere virksomheder, som tidligere har haft datamatikere i praktik.
+Virksomheds informationer kan være upræcise, så hvis du ved mere om en virksomhed, som ikke er angivet, så må du meget gerne [oprette en issue](https://github.com/j4asper/Datamatiker-Praktiksteder/issues/new/choose) eller en [pull request](https://github.com/j4asper/Datamatiker-Praktiksteder/pulls). Det samme gælder, hvis du kender til en eller flere virksomheder, som tidligere har haft datamatikere i praktik.
 
 ## Lokation
 
