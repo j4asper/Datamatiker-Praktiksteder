@@ -4,7 +4,7 @@
 
 Denne liste er blevet sammensat med det formål at hjælpe datamatikstuderende med at finde praktikmuligheder inden for deres fagområde. Praktikperioden er en afgørende del af datamatikuddannelsen, hvor studerende får mulighed for at anvende deres teoretiske viden i den virkelige verden og opbygge praktisk erfaring.
 
-Samlet set er denne liste en ressource, der sigter mod at lette datamatikstuderendes praktiksøgningsproces ved at tilbyde en oversigt over potentielle praktiksteder.
+Samlet set er denne liste en ressource, der sigter mod at lette datamatikstuderendes praktiksøgningsproces ved at tilbyde en oversigt over potentielle praktiksteder i hele landet.
 
 En god håndfuld af virksomhederne nedenunder, kan også være gode Multimedie Design praktiksteder.
 
