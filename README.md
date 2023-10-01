@@ -8,16 +8,18 @@ Samlet set er denne liste en ressource, der sigter mod at lette datamatikstudere
 
 En god håndfuld af virksomhederne nedenunder, kan også være gode Multimedie Design praktiksteder.
 
+## Indhold
+
+- [Rettelser og Tilføjelser](#rettelser-og-tilføjelser)
+- Lokationer
+  - [Sjælland](#sjælland)
+  - [Fyn](#fyn)
+  - [Jylland](#jylland)
+  - [Udland](#udland)
+
 ## Rettelser og Tilføjelser
 
 Virksomheds informationer kan være upræcise, så hvis du ved mere om en virksomhed, som ikke er angivet, så må du meget gerne [oprette en issue](https://github.com/j4asper/Datamatiker-Praktiksteder/issues/new/choose) eller en [pull request](https://github.com/j4asper/Datamatiker-Praktiksteder/pulls). Det samme gælder, hvis du kender til en eller flere virksomheder, som tidligere har haft datamatikere i praktik.
-
-## Lokation
-
-- [Sjælland](#sjælland)
-- [Fyn](#fyn)
-- [Jylland](#jylland)
-- [Udland](#udland)
 
 ## Sjælland
 
