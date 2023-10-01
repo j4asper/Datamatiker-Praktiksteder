@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-35-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-36-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -49,6 +49,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [IT Stack ApS](https://www.itstack.dk) | Odense C, 5000 | Ukendt | IT Stack laver hjemmesider til kunder i bl.a. Wordpress og Woocommerce, derudover har de lavet integrationer til disse. |
 | [Little Beacon ApS](https://littlebeacon.com) | Odense C, 5000 | Ukendt | Little Beacon har en app suite, der går under navnet MobiSolutions, henvender sig primært til virksomheder inden for lager, salg, service og produktion. |
 | [LittleGiants ApS](https://littlegiants.dk/) | Odense C, 5000 | Ukendt | LittleGiants laver apps, hjemmesider og software til kunder. |
+| [Morningtrain](https://morningtrain.dk) | Odense C, 5000 | PHP, JS | Morningtrain hjælper med forretningsudvikling og løsning af digitale udfordringer ved brug deres digitale værktøjskasse eller ved at bygge nye løsninger. |
 | [Ordbogen A/S](https://www.ordbogen.com) | Odense M, 5230 | PHP, Python, JS, C++, Objective-C, Swift, Docker, Jenkins | Ordbogen har ordbogen.com og 4 andre hjemmesider, der har sprog som fælles tema. |
 | [Pentia Mobile ApS](https://pentia.dk) | Odense C, 5000 | React | Pentia Mobile laver software løsninger til kunder. |
 | [Vicath EQ ApS](https://vicatheq.dk/) | Odense SØ, 5220 | Ukendt | Vicath EQ har fokus på arbejdsmiljø, og har bl.a. et værktøj til styring og dokumentation af en virksomhedens opgaver. |
