@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-32-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-33-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -28,6 +28,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Adwise Media A/S](https://marketing-praktikant.dk/) | Albertslund, 2620 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 | [Datacompagniet A/S](https://datacompagniet.dk) | København K, 1253 | Ukendt | Datacompagniet leverer primært Microsoft baserede IT-løsninger. |
 | [HappyFamily A/S](https://littlehappy.dk) | Korsør, 4220 | Ukendt | HappyFamily A/S ejer og driver til daglig e-commerce og subscription baseret forretninger under navne som bl.a. www.littlehappy.dk og www.littlehappyfamily.com. |
+| [TIMEmSYSTEM](https://www.timemsystem.com) | København V, 1799 | .Net, React, JS | TIMEmSYSTEM er specialister indenfor overenskomst- og arbejdstidsregler indenfor digitalisering. |
 
 ## Fyn
 
