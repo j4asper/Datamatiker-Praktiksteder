@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-36-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-37-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -39,6 +39,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
+| [ABB](https://new.abb.com/dk) | Odense SØ, 5220 | .Net | ABB er teknologisk førende inden for elektrificering og automation, der muliggør en mere bæredygtig fremtid med effektivt brug af ressourcer. |
 | [Autorola Group](https://www.autorolagroup.com/) | Odense C, 5000 | Ukendt | Autorola Group har bl.a. en bil auktions hjemmeside og andre hjemmesider, hvor biler er et fælles tema. |
 | [AviationCloud A/S](https://foreflight.com/) | Odense C, 5000 | Ukendt | AviationCloud laver primært produkter til bl.a. piloter. |
 | [Ecreo ApS](https://www.ecreo.dk) | Odense C, 5000 | Ukendt | Ecreo laver softwareløsninger til andre virksomheder. |
