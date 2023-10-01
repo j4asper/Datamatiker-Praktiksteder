@@ -3,7 +3,7 @@ name: Tilføjelse af virksomhed
 about: Brug denne template, hvis du vil have en virksomhed tilføjet til samlingen.
 title: ''
 labels: Tilføjelse
-assignees: ''
+assignees: j4asper
 
 ---
 
