@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-37-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-38-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -67,6 +67,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Datamarked ApS](https://www.datamarked.dk/) | Nørresundby, 9400 | HTML, CSS, JS, PHP, MySQL | Webshop med salg af genbrugt IT. |
 | [Elbek & Vejrup A/S](https://elbek-vejrup.dk/) | Århus N, 8200 | .Net | Elbek & Vejrup udvikler og implementerer standard ERP-løsninger til udvalgte brancher. |
 | [Limbo Works ApS](https://www.limbo.works) | Vejle, 7100 | .Net, JS, Azure | Limbo Works laver software løsninger til virksomheder. |
+| [LINAK A/S](https://www.linak.com) | Nordborg, 6430 | .Net | LINAK producerer elektriske lineære aktuatorløsninger, der sikrer jævn justering i mange forskellige applikationer. Fra hospital og pleje til landbrug, kontormøbler, komfortmøbler, og industriel automatisering. |
 | [Miralix](https://www.miralix.dk/) | Hedensted, 8722 | .Net, React, Blazor | Miralix har en løsning til virksomheder, for at gøre kundekontakt lettere. |
 | [Neogrid Technologies ApS](https://neogrid.dk) | Aalborg Øst, 9220 | Ukendt | Neogrid Technologies ApS er en cleantech virksomhed, der arbejder med intelligent energivisualisering, overvågning og styring. |
 | [NGAGE ApS](https://ngage.dk/) | Vejle, 7100 | .Net, React, JS | NGAGE rådgiver om og implementerer løsninger til Intranet, digital samarbejde og automatisering af processer på en samlet digital arbejdsplads. |
