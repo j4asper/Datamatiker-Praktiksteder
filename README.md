@@ -10,12 +10,17 @@ En god håndfuld af virksomhederne nedenunder, kan også være gode Multimedie D
 
 ## Indhold
 
+- [Speciel Praktik](#speciel-praktik)
 - [Rettelser og Tilføjelser](#rettelser-og-tilføjelser)
 - Lokationer
   - [Sjælland](#sjælland)
   - [Fyn](#fyn)
   - [Jylland](#jylland)
   - [Udland](#udland)
+
+## Speciel Praktik
+
+Nogle praktiksteder, som f.eks. Nordjyllands Politi, kræver at man har en sikkerhedsgodkendelse. Man skal derfor søge i god tid, hvis man gerne vil have praktik et specielt sted. Disse typer af praktiksteder vil være markeret med en stjerne (*) foran virksomheds navnet.
 
 ## Rettelser og Tilføjelser
 
