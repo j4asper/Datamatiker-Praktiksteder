@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-39-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-40-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -77,6 +77,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | *[Nordjyllands Politi](https://politi.dk) | Aalborg, 9000 | Ukendt | Siger sig selv. |
 | [Retio Partners ApS](https://retio.dk) | Vejle, 7100 | Ukendt | Retio Partners tilbyder et digitaliseret bogførings system. |
 | [Sydbank A/S](https://www.sydbank.dk) | Aabenraa, 6200 | .Net, Kubernetes | Sydbank har en af Sønderjyllands største IT-afdelinger, og har derfor en bred vifte af IT-funktioner. |
+| [team.blue](https://team.blue/) | Skanderborg, 8660 | JS, PHP, HTML,  CSS | team.blue har Danmarks førende webshopplatform HostedShop, der fungerer som fundamentet for omkring 4000 webshops. |
 | [twoday Co3](https://www.co3.dk) | Herning, 7400 | .NET, HTML, CSS, JS | twoday Co3 tilbyder websites, apps, e-handel, PIM, online marketing og meget mere. |
 | [Unik System Design A/S](https://unik.dk/) | Vejle, 7100 | .Net, Blazor | Unik udvikler innovative softwareløsninger, der optimerer workflowet for kunder i ejendoms- og advokatbranchen. |
 | [Uptime Development A/S](https://uptimedevelopment.dk/) | Vejle, 7100 | .Net, PHP | Uptime Development udvikler intelligente IT-løsninger. Fra koncept og forretningsanalyse til design, prototype og lancering. |
