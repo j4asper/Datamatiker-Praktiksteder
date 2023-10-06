@@ -6,7 +6,12 @@ Denne liste er blevet sammensat med det formål at hjælpe datamatikstuderende m
 
 Samlet set er denne liste en ressource, der sigter mod at lette datamatikstuderendes praktiksøgningsproces ved at tilbyde en oversigt over potentielle praktiksteder i hele landet.
 
-En god håndfuld af virksomhederne nedenunder, kan også være gode Multimedie Design praktiksteder.
+En god håndfuld af virksomhederne nedenunder, kan også være gode praktiksteder til uddannelserne nedenunder.
+
+- Multimediedesign
+- Pba. i softwareudvikling
+- Pba. i webudvikling
+- Pba. i IT-sikkerhed
 
 ## Indhold
 
