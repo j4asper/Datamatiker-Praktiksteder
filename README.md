@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-40-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-41-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -48,6 +48,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Fjernvarme Fyn Service A/S](https://www.fjernvarmefyn.dk) | Odense C, 5000 | Ukendt | Fjernvarme Fyn står for en stor del af Fyns varmeforsyning. |
 | [HR-ON ApS](https://hr-on.com) | Odense C, 5000 | Ukendt | HR-ON Recruit og HR-ON Staff samler daglige HR-opgaver et sted. |
 | [Innopixel ApS](https://innopixel.dk/) | Odense NV, 5210 | Ukendt | HR-ON er en cloudbaseret programpakke, der gør HR-arbejde meget mere effektivt. |
+| [IntelliFinder A/S](https://www.intellifinder.dk) | Odense SØ, 5220 | PHP | IntelliFinder er en førende virksomhed inden for softwareløsninger, der fokuserer på at optimere arbejdsprocesser og forbedre datahåndtering for vores kunder. |
 | [IT Stack ApS](https://www.itstack.dk) | Odense C, 5000 | Ukendt | IT Stack laver hjemmesider til kunder i bl.a. Wordpress og Woocommerce, derudover har de lavet integrationer til disse. |
 | [Little Beacon ApS](https://littlebeacon.com) | Odense C, 5000 | Ukendt | Little Beacon har en app suite, der går under navnet MobiSolutions, henvender sig primært til virksomheder inden for lager, salg, service og produktion. |
 | [LittleGiants ApS](https://littlegiants.dk/) | Odense C, 5000 | Ukendt | LittleGiants laver apps, hjemmesider og software til kunder. |
