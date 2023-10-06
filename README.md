@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-38-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-39-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -33,6 +33,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Adwise Media A/S](https://marketing-praktikant.dk/) | Albertslund, 2620 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 | [Datacompagniet A/S](https://datacompagniet.dk) | København K, 1253 | Ukendt | Datacompagniet leverer primært Microsoft baserede IT-løsninger. |
 | [HappyFamily A/S](https://littlehappy.dk) | Korsør, 4220 | Ukendt | HappyFamily A/S ejer og driver til daglig e-commerce og subscription baseret forretninger under navne som bl.a. www.littlehappy.dk og www.littlehappyfamily.com. |
+| [Tech Chapter](https://www.techchapter.com) | København, 1165 | DynamoDB, AuoraDB | Tech Chapter er en DevOps konsulent virksomhed med hovedsæde i København og kontorer i Aarhus og Odense. |
 | [TIMEmSYSTEM](https://www.timemsystem.com) | København V, 1799 | .Net, React, JS | TIMEmSYSTEM er specialister indenfor overenskomst- og arbejdstidsregler indenfor digitalisering. |
 
 ## Fyn
@@ -53,6 +54,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Morningtrain](https://morningtrain.dk) | Odense C, 5000 | PHP, JS | Morningtrain hjælper med forretningsudvikling og løsning af digitale udfordringer ved brug deres digitale værktøjskasse eller ved at bygge nye løsninger. |
 | [Ordbogen A/S](https://www.ordbogen.com) | Odense M, 5230 | PHP, Python, JS, C++, Objective-C, Swift, Docker, Jenkins | Ordbogen har ordbogen.com og 4 andre hjemmesider, der har sprog som fælles tema. |
 | [Pentia Mobile ApS](https://pentia.dk) | Odense C, 5000 | React | Pentia Mobile laver software løsninger til kunder. |
+| [Tech Chapter](https://www.techchapter.com) | Odense C, 5000 | DynamoDB, AuoraDB | Tech Chapter er en DevOps konsulent virksomhed med hovedsæde i København og kontorer i Aarhus og Odense. |
 | [Vicath EQ ApS](https://vicatheq.dk/) | Odense SØ, 5220 | Ukendt | Vicath EQ har fokus på arbejdsmiljø, og har bl.a. et værktøj til styring og dokumentation af en virksomhedens opgaver. |
 | [Vitec MV A/S](https://www.vitecsoftware.com/en/) | Odense C, 5000 | Ukendt | Vitec MV laver software til bl.a. apoteker, banker og værksteder. |
 
