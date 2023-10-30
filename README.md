@@ -83,6 +83,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Nolek A/S](https://www.nolek.dk/da/) | Kolding, 6000 | Ukendt | Nolek har nogle farmaceutiske software løsninger. |
 | *[Nordjyllands Politi](https://politi.dk) | Aalborg, 9000 | Ukendt | Siger sig selv. |
 | [Retio Partners ApS](https://retio.dk) | Vejle, 7100 | Ukendt | Retio Partners tilbyder et digitaliseret bogførings system. |
+| [Schneider Electric APS](https://www.se.com/dk/da/) | 6000 Kolding | Java, TypeScript, Angular, SpringBoot, Kubernetes, Docker, Protobuf | Hos Schneider Electric udvikles førende software til automatisering og optimering af datacentre både i form af drift og energiforbrug.  |
 | [Sydbank A/S](https://www.sydbank.dk) | Aabenraa, 6200 | .Net, Kubernetes | Sydbank har en af Sønderjyllands største IT-afdelinger, og har derfor en bred vifte af IT-funktioner. |
 | [team.blue](https://team.blue/) | Skanderborg, 8660 | JS, PHP, HTML,  CSS | team.blue har Danmarks førende webshopplatform HostedShop, der fungerer som fundamentet for omkring 4000 webshops. |
 | [twoday Co3](https://www.co3.dk) | Herning, 7400 | .NET, HTML, CSS, JS | twoday Co3 tilbyder websites, apps, e-handel, PIM, online marketing og meget mere. |
