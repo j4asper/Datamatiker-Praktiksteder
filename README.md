@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-47-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-48-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -52,6 +52,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Axla ApS](https://axla.dk/) | Odense SØ, 5220 | .NET, SQL, React/Redux, Java, Objective C, Swift, Javascript, HTML, CSS, Amazon Cloud | Axla ApS udvikler software løsninger til virksomheder. |
 | [Bitworks](https://bitworks.dk) | Assens, 5610 | Ukendt | BitWorks hjælper små- og mellemstore virksomheder med at realisere deres IT projekter. |
 | [Blue Unit](https://blue-unit.com/) | Odense SØ, 5220 | Ukendt | Blue Unit laver hardware målere til fiskeopdrættere, som kan give et overblik over kvaliteten af vandet. |
+| [Buildcode IVS](https://buildcode.dk) | Odense SØ, 5220 | Ukendt | Buildcode er bygget på passionen for en byggebranche med større grad af transparens, retfærdighed og produktivitet. At udvikle systemer til byggebranchen kræver stor indsigt i aftaleforhold, kompleksiteten og banaliteterne. |
 | [Ecreo ApS](https://www.ecreo.dk) | Odense C, 5000 | Ukendt | Ecreo laver softwareløsninger til andre virksomheder. |
 | [Edentic ApS](https://edentic.dk/) | Odense C, 5000 | Ukendt | Edentic laver softwareløsninger til andre virksomheder bl.a. DSB. |
 | [Fjernvarme Fyn Service A/S](https://www.fjernvarmefyn.dk) | Odense C, 5000 | Ukendt | Fjernvarme Fyn står for en stor del af Fyns varmeforsyning. |
