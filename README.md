@@ -95,6 +95,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Unik System Design A/S](https://unik.dk/) | Vejle, 7100 | .Net, Blazor | Unik udvikler innovative softwareløsninger, der optimerer workflowet for kunder i ejendoms- og advokatbranchen. |
 | [Uptime Development A/S](https://uptimedevelopment.dk/) | Vejle, 7100 | .Net, PHP | Uptime Development udvikler intelligente IT-løsninger. Fra koncept og forretningsanalyse til design, prototype og lancering. |
 | [Vestjysk Marketing A/S](https://www.vestjyskmarketing.dk/) | Ringkøbing, 6950 | .Net | Vestjysk Marketing laver hjemmesider og webshops. |
+| [Bitzer Electronics A/S](https://www.bitzer.de/) | Sønderborg, 6400 | .Net | Bitzer Electronics udvikler produkter indenfor bl.a. køling og aircondition. |
 
 ## Udland
 
