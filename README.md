@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-48-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-49-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -77,6 +77,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Adwise Media A/S](https://marketing-praktikant.dk/) | Vejle, 7100 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 | [AUTOproff A/S](https://www.autoproff.dk) | Vejle, 7100 | .Net, MySQL, AWS, CircleCI, Vue.js | AUTOproff leverer SaaS-løsninger til professionelle bilforhandlere i Europa. |
 | [Bankdata Danmark Aps](https://www.bankdata.dk/) | Fredericia, 7000 | Java | Bankdata Danmark bygger alt det, der rimer på bank. Fra bank-appen på din smartphone til Danmarks finansielle infrastruktur. |
+| [Bitzer Electronics A/S](https://www.bitzer.de/) | Sønderborg, 6400 | .Net | Bitzer Electronics udvikler produkter indenfor bl.a. køling og aircondition. |
 | [CompanYoung A/S](https://companyoung.com/) | Aalborg, 9000 | PHP, JS, MySQL, AWS, HTML, Scss | CompanYoung er et konsulenthus specialiseret i tiltrækning og fastholdelse af unge. |
 | [Datamarked ApS](https://www.datamarked.dk/) | Nørresundby, 9400 | HTML, CSS, JS, PHP, MySQL | Webshop med salg af genbrugt IT. |
 | [Elbek & Vejrup A/S](https://elbek-vejrup.dk/) | Århus N, 8200 | .Net | Elbek & Vejrup udvikler og implementerer standard ERP-løsninger til udvalgte brancher. |
@@ -95,7 +96,6 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Unik System Design A/S](https://unik.dk/) | Vejle, 7100 | .Net, Blazor | Unik udvikler innovative softwareløsninger, der optimerer workflowet for kunder i ejendoms- og advokatbranchen. |
 | [Uptime Development A/S](https://uptimedevelopment.dk/) | Vejle, 7100 | .Net, PHP | Uptime Development udvikler intelligente IT-løsninger. Fra koncept og forretningsanalyse til design, prototype og lancering. |
 | [Vestjysk Marketing A/S](https://www.vestjyskmarketing.dk/) | Ringkøbing, 6950 | .Net | Vestjysk Marketing laver hjemmesider og webshops. |
-| [Bitzer Electronics A/S](https://www.bitzer.de/) | Sønderborg, 6400 | .Net | Bitzer Electronics udvikler produkter indenfor bl.a. køling og aircondition. |
 
 ## Udland
 
