@@ -75,6 +75,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
 | [Adwise Media A/S](https://marketing-praktikant.dk/) | Vejle, 7100 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
+| [Agramkow Fluid Systems A/S](https://agramkow.com) | Sønderborg, 6400 | .Net, TypeScript, React | Agramkow producerer proces- og testløsninger til appliance-industrien globalt. |
 | [AUTOproff A/S](https://www.autoproff.dk) | Vejle, 7100 | .Net, MySQL, AWS, CircleCI, Vue.js | AUTOproff leverer SaaS-løsninger til professionelle bilforhandlere i Europa. |
 | [Bankdata Danmark Aps](https://www.bankdata.dk/) | Fredericia, 7000 | Java | Bankdata Danmark bygger alt det, der rimer på bank. Fra bank-appen på din smartphone til Danmarks finansielle infrastruktur. |
 | [Bitzer Electronics A/S](https://www.bitzer.de/) | Sønderborg, 6400 | .Net | Bitzer Electronics udvikler produkter indenfor bl.a. køling og aircondition. |
