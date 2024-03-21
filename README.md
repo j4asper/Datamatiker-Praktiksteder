@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-50-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-51-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -46,6 +46,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
 | [ABB](https://new.abb.com/dk) | Odense SØ, 5220 | .Net | ABB er teknologisk førende inden for elektrificering og automation, der muliggør en mere bæredygtig fremtid med effektivt brug af ressourcer. |
+| [Air Support](https://ppsflightplanning.com/) | Odense M, 5230 | .Net, Angular | Air Support laver flight planning og flight tracking software til luftfartsindustrien. |
 | [Alex Andersen Ølund A/S](https://alex-andersen.dk) | Odense SV, 5250 | Ukendt | Alex Andersen Ølund A/S er en af Danmarks førende logistikvirksomheder med speciale i transport af blomster, frugt og grønt og andre temperaturfølsomme varer samt stykgods af enhver art. |
 | [Autorola Group](https://www.autorolagroup.com/) | Odense C, 5000 | Ukendt | Autorola Group har bl.a. en bil auktions hjemmeside og andre hjemmesider, hvor biler er et fælles tema. |
 | [AviationCloud A/S](https://foreflight.com/) | Odense C, 5000 | Ukendt | AviationCloud laver primært produkter til bl.a. piloter. |
