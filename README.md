@@ -75,6 +75,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 
 | Virksomhed | By | Stack | Beskrivelse |
 |------------|----|-------|-------------|
+| [ADSB Support](https://www.adsbsupport.com) | Billund, 7190 | Ukendt | ADSB Support samler data med dere ADS-B reciever, og bruger dataen til flight tracking og flight planning. |
 | [Adwise Media A/S](https://marketing-praktikant.dk/) | Vejle, 7100 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 | [Agramkow Fluid Systems A/S](https://agramkow.com) | Sønderborg, 6400 | .Net, TypeScript, React | Agramkow producerer proces- og testløsninger til appliance-industrien globalt. |
 | [AUTOproff A/S](https://www.autoproff.dk) | Vejle, 7100 | .Net, MySQL, AWS, CircleCI, Vue.js | AUTOproff leverer SaaS-løsninger til professionelle bilforhandlere i Europa. |
