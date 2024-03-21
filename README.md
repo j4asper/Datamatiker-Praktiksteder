@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-51-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-52-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
