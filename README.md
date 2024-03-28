@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Virksomheder-53-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Virksomheder-55-blue?style=for-the-badge)
 
 # Datamatiker Praktiksteder
 
@@ -38,6 +38,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Adwise Media A/S](https://marketing-praktikant.dk/) | Albertslund, 2620 | Ukendt | Adwise Media laver webløsninger til kunder, og hjælper med reklamering. |
 | [Datacompagniet A/S](https://datacompagniet.dk) | København K, 1253 | Ukendt | Datacompagniet leverer primært Microsoft baserede IT-løsninger. |
 | [HappyFamily A/S](https://littlehappy.dk) | Korsør, 4220 | Ukendt | HappyFamily A/S ejer og driver til daglig e-commerce og subscription baseret forretninger under navne som bl.a. www.littlehappy.dk og www.littlehappyfamily.com. |
+| [HK Danmark](https://www.hk.dk/) | København S, 2300 | HTML, CSS, jQuery, React | HK er en fagforening, som udvikler IT løsninger. |
 | [Tech Chapter](https://www.techchapter.com) | København, 1165 | DynamoDB, AuoraDB | Tech Chapter er en DevOps konsulent virksomhed med hovedsæde i København og kontorer i Aarhus og Odense. |
 | [TIMEmSYSTEM](https://www.timemsystem.com) | København V, 1799 | .Net, React, JS | TIMEmSYSTEM er specialister indenfor overenskomst- og arbejdstidsregler indenfor digitalisering. |
 
@@ -54,6 +55,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Bitworks](https://bitworks.dk) | Assens, 5610 | Ukendt | BitWorks hjælper små- og mellemstore virksomheder med at realisere deres IT projekter. |
 | [Blue Unit](https://blue-unit.com/) | Odense SØ, 5220 | Ukendt | Blue Unit laver hardware målere til fiskeopdrættere, som kan give et overblik over kvaliteten af vandet. |
 | [Buildcode IVS](https://buildcode.dk) | Odense SØ, 5220 | Ukendt | Buildcode er bygget på passionen for en byggebranche med større grad af transparens, retfærdighed og produktivitet. At udvikle systemer til byggebranchen kræver stor indsigt i aftaleforhold, kompleksiteten og banaliteterne. |
+| [CabinPlant A/S](https://www.cabinplant.com/) | Haarby, 5683 | Ukendt | CabinPlant laver maskiner til bearbejdning af fødevarer. |
 | [Ecreo ApS](https://www.ecreo.dk) | Odense C, 5000 | Ukendt | Ecreo laver softwareløsninger til andre virksomheder. |
 | [Edentic ApS](https://edentic.dk/) | Odense C, 5000 | Ukendt | Edentic laver softwareløsninger til andre virksomheder bl.a. DSB. |
 | [Fjernvarme Fyn Service A/S](https://www.fjernvarmefyn.dk) | Odense C, 5000 | Ukendt | Fjernvarme Fyn står for en stor del af Fyns varmeforsyning. |
