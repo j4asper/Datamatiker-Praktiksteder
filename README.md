@@ -65,6 +65,7 @@ Virksomheds informationer kan være upræcise, så hvis du ved mere om en virkso
 | [Little Beacon ApS](https://littlebeacon.com) | Odense C, 5000 | Ukendt | Little Beacon har en app suite, der går under navnet MobiSolutions, henvender sig primært til virksomheder inden for lager, salg, service og produktion. |
 | [LittleGiants ApS](https://littlegiants.dk/) | Odense C, 5000 | Ukendt | LittleGiants laver apps, hjemmesider og software til kunder. |
 | [Morningtrain](https://morningtrain.dk) | Odense C, 5000 | PHP, JS | Morningtrain hjælper med forretningsudvikling og løsning af digitale udfordringer ved brug deres digitale værktøjskasse eller ved at bygge nye løsninger. |
+| [Optilogic](https://optilogic.dk) | 5690 Tommerup | C#, C++  | Optilogic laver primært automatitions løsninger og software til industien |
 | [OptiUnit ApS](https://optiunit.com/) | Odense SV, 5250 | Flutter, React, Angular, TS, JS, HTML, CSS, Python, PHP | OptiUnit er et digital flådestyringssystem, som hurtigt og nemt giver et komplet overblik over en virksomheds flåde. |
 | [Ordbogen A/S](https://www.ordbogen.com) | Odense M, 5230 | PHP, Python, JS, C++, Objective-C, Swift, Docker, Jenkins | Ordbogen har ordbogen.com og 4 andre hjemmesider, der har sprog som fælles tema. |
 | [Pentia Mobile ApS](https://pentia.dk) | Odense C, 5000 | React | Pentia Mobile laver software løsninger til kunder. |
